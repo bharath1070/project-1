@@ -1,0 +1,218 @@
+[
+	{
+		"SectionA": "What types of domains are available?",
+		"SectionB": "Explain in detail about E-Mail operations and its protocols.",
+		"SectionC": "Explain Voice and Video Conferencing in detail. Write briefly about any three instant messaging programs.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "How can you handle spams?",
+		"SectionB": "Explain in detail web security and privacy.",
+		"SectionC": "Explain the ways to avoid email viruses.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "List the advantages of E-Mail.",
+		"SectionB": "Describe how files are transferred using FTP.",
+		"SectionC": "Explain the concept of online chatting.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "How to avoid the E-Mail viruses?",
+		"SectionB": "Discuss briefly about blocking web sites and sorting mail.",
+		"SectionC": "Explain in detail about Usenet Newsgroup.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "What are the different ways to reduce the amount of spam?",
+		"SectionB": "What is DCCP and NNTP? Explain its uses.",
+		"SectionC": "Explain Messaging and its techniques.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "List the various E-mail error messages.",
+		"SectionB": "Explain Video Conferencing. List out the requirements for Video Conferencing.",
+		"SectionC": "Explain the concept behind the Domain Name System with an example.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "Mention any four Internet Services.",
+		"SectionB": "Explain Mailing List. How are Newsgroups different from Mailing Lists?",
+		"SectionC": "Write note on ‘chatting on the Internet’.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "Define Spam.",
+		"SectionB": "Write short notes on Fighting Spam.",
+		"SectionC": "Illustrate the principle of Exchanging E-Mail.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "Distinguish between Real-time chat and Asynchronous chat.",
+		"SectionB": "What is mean by site-blocking? Explain in Detail.",
+		"SectionC": "Discuss about the Sending and Receiving Files.",
+		"Unit": "1"
+	},
+	{
+		"SectionA": "How does Java achieve portability?",
+		"SectionB": "How do you set CLASSPATH?",
+		"SectionC": "Discuss exception handling mechanism in detail with suitable example.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "How do you implement multiple inheritance in Java?",
+		"SectionB": "List any Five packages and its uses.",
+		"SectionC": "Explain how to create a package in Java with an example.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "What is meant by constructor overloading?",
+		"SectionB": "Discuss the different types of operators used in Java.",
+		"SectionC": "Explain the salient features of Java in detail.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "List out the control structures in Java.",
+		"SectionB": "Develop a Java Program to demonstrate Multilevel Inheritance.",
+		"SectionC": "Write a Java program to create a user-defined exception and use it in the main method.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "Write a Java program to increment a number and print the number and the incremental value.",
+		"SectionB": "Discuss the role of JVM in the Java platform.",
+		"SectionC": "Write a Java program to implement the following in-built exceptions: ArithmeticException and NumberFormatException.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "What is the need for packages?",
+		"SectionB": "Differentiate overloading and overriding with a suitable example.",
+		"SectionC": "Discuss about the polymorphism and abstract classes in Java.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "What are Java buzzwords?",
+		"SectionB": "What is the use of finally keyword and finalize method?",
+		"SectionC": "Explain various control structures used in Java.",
+		"Unit": "2"
+	},
+	{
+		"SectionA": "What is Layout Managers?",
+		"SectionB": "Write a Java program to create a simple calculator application using AWT Frame class.",
+		"SectionC": "Explain any three Layout Managers in detail with their methods.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "What is painting in Java?",
+		"SectionB": "Design an Applet to demonstrate College Information and use appropriate layout for alignment.",
+		"SectionC": "Illustrate the creation of command buttons and action events with a suitable example program.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "How to create thread?",
+		"SectionB": "Explain how multithreading is achieved in Java with suitable examples.",
+		"SectionC": "Write a Java program to handle mouse and keyboard events using the delegation model.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "List out any four methods of Thread class.",
+		"SectionB": "Explain any four java.lang packages in detail.",
+		"SectionC": "What is Garbage collection? How strings are handled in Java? Explain the concepts with an example.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "What is event handling?",
+		"SectionB": "Write a Java program to convert an integer into binary, hexadecimal and octal.",
+		"SectionC": "Discuss about Event listener interfaces with a suitable example.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "What is a container? List any two containers.",
+		"SectionB": "How to create Menu Bar, Menu and Menu item in Java? Explain with a suitable example.",
+		"SectionC": "Illustrate the creation of frames and scroll bar and action events with a suitable example.",
+		"Unit": "3"
+	},
+	{
+		"SectionA": "List the packages which help in building Servlet.",
+		"SectionB": "Write a Java program to create a new ArrayList for storing string objects.",
+		"SectionC": "Write a Java program to display the student information using JDBC.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "What is anonymous inner class?",
+		"SectionB": "Write short notes on PrintStream class.",
+		"SectionC": "Explain the working of RMI. Write a Java program for adding two numbers using RMI.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "State any two utility packages and what is their use.",
+		"SectionB": "Write a Java program to read a text file and display its content.",
+		"SectionC": "Explain the different components of Java servlet with a simple Java servlet program.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "List the life cycle methods of a servlet.",
+		"SectionB": "List out the utility packages.",
+		"SectionC": "Write a servlet code to display the string “Hello” in the browser display area.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "What is Swing?.",
+		"SectionB": "Explain Java Database Connectivity in detail.",
+		"SectionC": "Explain in Detail about Handling HTTP Requests and Responses.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "Define Stubs and Skeletons.",
+		"SectionB": "Write a Java program to implement event handling in Swing.",
+		"SectionC": "Explain the process of Serialization in Java and write a program to demonstrate it.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "What is the difference between Prepared Statement and Callable Statement?",
+		"SectionB": "Explain about Serialization? Is it needed to implement RMI.",
+		"SectionC": "Explain the working of RMI with a client–server application to display the current date and time in digital form.",
+		"Unit": "4"
+	},
+	{
+		"SectionA": "What is a Java Bean? What are the advantages of Java beans?",
+		"SectionB": "Discuss briefly about Datagram Packet.",
+		"SectionC": "Explain how Java beans can be created with an example.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "What is Introspection?",
+		"SectionB": "Discuss briefly about TCP/IP Client Sockets.",
+		"SectionC": "Explain Bean Info Interface.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "List the major capabilities of Application Builder Tools.",
+		"SectionB": "Explain the BDK application for Create and Configure an Instance of the Molecule Bean.",
+		"SectionC": "Develop a Java Bean program to lists the properties and events of the Colors Bean.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "What is BDK?",
+		"SectionB": "Explain the BDK application for Create and Configure an Instance of the OurButton Bean.",
+		"SectionC": "Develop a Java Bean program to display the various shapes like arc, ellipse and polygon.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "How to create and configure an instance of the OurButton Bean?",
+		"SectionB": "Explain the URL Connection.",
+		"SectionC": "Write a client-server Java program using Datagram.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "What is the need for JAR files?",
+		"SectionB": "Explain TCP/IP Server Sockets.",
+		"SectionC": "Write a Java program to implement File Transfer Protocol using Socket.",
+		"Unit": "5"
+	},
+	{
+		"SectionA": "What is the use of manifest file?",
+		"SectionB": "Explain Persistence with an example.",
+		"SectionC": "Develop a simple caching proxy HTTP server to demonstrate client and server sockets.",
+		"Unit": "5"
+	}
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "SectionA": "What are the different properties provided by object-oriented systems?",
+    "SectionB": "Explain the components of STL in detail.",
+    "SectionC": "Explain concepts and capabilities of oops with example.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Compare call by value and call by reference.",
+    "SectionB": "What is OOP? How does it differ from structured programming?",
+    "SectionC": "Array declaration and manipulation, function invocation, pointers and its types, assertions.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Define encapsulation.",
+    "SectionB": "Discuss characteristics of object-oriented language.",
+    "SectionC": "What is function prototype? Describe with proper example write different styles of function prototype and its advantages?",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What do you mean by data binding?",
+    "SectionB": "What is a variable in C++? How to form a variable? Explain in detail.",
+    "SectionC": "How pointers can be used in the array of characters? Give example of string functions using pointers?",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What is an Abstract Data Type?",
+    "SectionB": "Compare private and public access specifiers in a class with Example.",
+    "SectionC": "Explain the different types of function calls with suitable example.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Give the structure of a C++ program.",
+    "SectionB": "What is structural program and different structure & modular programming.",
+    "SectionC": "a)Scope and storage class b)Enum data type c)Template library d)Array of pointers",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What do you mean by enumerated data type?",
+    "SectionB": "What is function overloading with an example.",
+    "SectionC": "What is programming paradigm? Explain different kinds of programming paradigms.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Define the term standard template library.",
+    "SectionB": "Explain in detail about storage class with example.",
+    "SectionC": "Explain the declaration of a class in C++. How will you define the member function of a class? Explain with example.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What do you mean by Data Abstraction?",
+    "SectionB": "What is Container. Explain in detail.",
+    "SectionC": "Explain in detail about programming elements and programming structure.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Give one example for copy constructor.",
+    "SectionB": "Discuss the reference semantics and explain the structure pointer operators with example.",
+    "SectionC": "Write a C++ program for stack ADT.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "State the use of ADT.",
+    "SectionB": "What is constructor? Discuss the syntax and rules of different types of constructors and explain it with suitable examples.",
+    "SectionC": "What is friend function? Explain the usage of friend function with an example?",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What are the two methods used to access the structure elements using pointers?",
+    "SectionB": "What is Destructor? What is the use of declaring a Destructor member function in a program? Explain with a suitable example.",
+    "SectionC": "Structure pointer operator with an example program. Define a member function inside the class body.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is parameterized constructor? How are they accessed in the main program?",
+    "SectionB": "Write a program for swapping of two variables without using a third variable.",
+    "SectionC": "What are parameterized constructors? Give an example.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is Function prototyping? Give an example.",
+    "SectionB": "Explain static member functions with a sample code.",
+    "SectionC": "Difference between structure and a class. Give Example.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "How is a constructor defined and declared?",
+    "SectionB": "Define structure and union with example.",
+    "SectionC": "What is the need for parameterized constructors? Explain the function of the default constructor, parameterized constructor, and copy with a suitable example.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is the use of ‘this’ keyword.",
+    "SectionB": "Mention the different access specifiers available in C++. What is the default access specifier?",
+    "SectionC": "Explain pointers to objects, pointers to derived classes and use of ‘this’ pointer with examples.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is meant by ADT conversion?",
+    "SectionB": "Explain in detail about function selection algorithm, pointer to operators and visitation with an example.",
+    "SectionC": "Explain in detail function selection with suitable program.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What is meant by overloading? How it is achieved in C++?",
+    "SectionB": "List the rules for operator overloading? Explain the STL reverse and insert iterators.",
+    "SectionC": "Write a program for overloading any one of a unary operator.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What is meant by function selection?",
+    "SectionB": "Which are operators that can’t be overloaded - state reason.",
+    "SectionC": "Write a program for overloading any one of a binary operator.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What are the rules for overloading an operator?",
+    "SectionB": "What is the difference between array and list? Explain with example.",
+    "SectionC": "Write a program for complex number manipulations using operator overloading.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "List the operators that cannot be overloaded.",
+    "SectionB": "Explain pointers to objects with a suitable example.",
+    "SectionC": "Write a program for queue container.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "List the operators that cannot be overloaded as friends.",
+    "SectionB": "Differentiate set and map with syntax and example.",
+    "SectionC": "Explain how a list container is used for inserting and displaying an element.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What is meant by visitation?",
+    "SectionB": "What is an iterator? Write the syntax for creating a list iterator and explain its type.",
+    "SectionC": "Describe the containers and sequence containers.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What is generic programming? How is it achieved?",
+    "SectionB": "Describe Template class and function templates with example.",
+    "SectionC": "Explain with a suitable program how a template function is overloaded in a program.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "Compare template with polymorphism.",
+    "SectionB": "Discuss I/O manipulation and Random access.",
+    "SectionC": "Write a C++ program to define a function template to swap the contents of two data items of type int, float, and char?",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is a function template?",
+    "SectionB": "Write a program for creating a generic stack to perform its various operations using a template.",
+    "SectionC": "Write a program to demonstrate template class with non-generic arguments.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is the use of typename?",
+    "SectionB": "Implementation of simple ADT’s with two examples.",
+    "SectionC": "Write a program to search an element in an array using a template function.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What are the advantages of using templates?",
+    "SectionB": "What are the different types of STL algorithms used in C++? Explain in detail.",
+    "SectionC": "Write a program to illustrate the non-mutating sequence algorithm.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is a class template?",
+    "SectionB": "What is the significance of mutating sequence and non-mutating sequence algorithm? Give an example.",
+    "SectionC": "What is meant by parameterizing?Explain with example",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "How to call a base class method without creating an instance?",
+    "SectionB": "What is exception handling? Describe in detail about how exceptions are handled using try-catch and throw blocks?",
+    "SectionC": "Explain STL algorithms in detail.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What is hierarchical inheritance?",
+    "SectionB": "Explain the following I)types of conversions and visibility. II) Virtual functions.",
+    "SectionC": "Different types of inheritance and how it could be used in a payroll program.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What is exception handling?",
+    "SectionB": "Explain about runtime type identification with a sample program.",
+    "SectionC": "Discuss about Virtual functions? Explain with suitable code.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What is the use of the visibility modifier “protected”?",
+    "SectionB": "What are the types of inheritance? Explain each type with an example.",
+    "SectionC": "Give 8 rules for virtual functions. Explain code reuse with an example.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "Write the first line of s specifier for a class toy that is derived from class plastic and class rubber?",
+    "SectionB": "What is class templates? How to declare C++ class templates?",
+    "SectionC": "Define Virtual functions and pure virtual functions. Discuss with example?",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What are pure virtual functions? Write the syntax.",
+    "SectionB": "Write the rules for operator overloading?",
+    "SectionC": "What are exception handling in C++? With example.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What is Hybrid inheritance? Give an example.",
+    "SectionB": "Define function template with its syntax and example?",
+    "SectionC": "Explain about Formatted I/O and I/O manipulations.",
+    "Unit": "5"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "SectionA": "What is a project?",
+    "SectionB": "What are the three successive processes that bring a new system?",
+    "SectionC": "Explain the difference between software projects and other projects in detail.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What is software project management?",
+    "SectionB": "Define Feasibility Study. Explain in detail.",
+    "SectionC": "Explain contract management and technical project management.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What are the characteristics of a project?",
+    "SectionB": "What is meant by planning? Give the flow.",
+    "SectionC": "Explain activities covered by software project management.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What is the difference between software projects and other types of projects?",
+    "SectionB": "What is strategic planning? Explain in detail.",
+    "SectionC": "What is management? Explain the problems with software projects.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Why organize an activity or job as a project?",
+    "SectionB": "What is design? Explain with an example.",
+    "SectionC": "Explain stakeholders and business case.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "List some of the key characteristics of a project?",
+    "SectionB": "How are software projects different from other projects?",
+    "SectionC": "Explain management control in detail.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "List the characteristics of the products of software projects?",
+    "SectionB": "What are the elements of the planning approach?",
+    "SectionC": "Explain the step-wise project planning in detail.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What are the three activities of SPM?",
+    "SectionB": "What are the phases in the software development life cycle?",
+    "SectionC": "How to analyze the project characteristics?",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Define Contract Management.",
+    "SectionB": "Define Requirement Analysis in detail.",
+    "SectionC": "Explain the steps involved in identifying activity risks.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "What are the Technical Project Planning Methodologies?",
+    "SectionB": "What is meant by qualification testing with a suitable example.",
+    "SectionC": "Explain the steps in project planning with case studies example.",
+    "Unit": "1"
+  },
+  {
+    "SectionA": "Define project Evaluation.",
+    "SectionB": "Define vision statement. Explain in detail.",
+    "SectionC": "What are the steps involved in project evolution?",
+    "Unit": "2",
+  },
+  {
+    "SectionA": "What is the 3 criteria project evaluation depends?",
+    "SectionB": "What is meant by blueprint with example.",
+    "SectionC": "Write in detail for project management with strategic programme.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is meant by programme?",
+    "SectionB": "What are things to be considered in the blueprint?",
+    "SectionC": "How to manage the allocation of resources within programmes with examples.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is Technical assessment?",
+    "SectionB": "What are the benefits of management?",
+    "SectionC": "Explain in detail strategic programme management.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What is the concept of strategic programmes?",
+    "SectionB": "Define technical assessment.",
+    "SectionC": "What re the steps involves in creating a programme?",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "Define Infrastructure programmes.",
+    "SectionB": "What are the steps in cost-benefit analysis?",
+    "SectionC": "Explain the benefits of management.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "Define Research and development programmes.",
+    "SectionB": "Define development costs and setup cost in detail.",
+    "SectionC": "Explain cost-benefit evaluation techniques.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "Write the difference between programme managers and project managers.",
+    "SectionB": "Write the goals of project management?",
+    "SectionC": "Explain decision trees with examples.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "Define programme mandate.",
+    "SectionB": "Define operational costs in detail.",
+    "SectionC": "Explain risk evaluation.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "How the programme will brief?",
+    "SectionB": "What is meant by cost flow forecasting?",
+    "SectionC": "What is meant by cash flow forecasting? Explain with an example.",
+    "Unit": "2"
+  },
+  {
+    "SectionA": "What are the steps involved in Activity Planning?",
+    "SectionB": "What is meant by forward pass and backward pass?",
+    "SectionC": "What are the objectives of activity planning?",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What are the objectives of activity planning?",
+    "SectionB": "What are the rules of activity –on-arrow rules and conventions?",
+    "SectionC": "Write the steps involved in project schedule.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "Define resource allocation.",
+    "SectionB": "What is risk management? Explain its types.",
+    "SectionC": "Explain the approaches for identifying the activities.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "How will define the activities?",
+    "SectionB": "Explain on Finish-to-Start (FS) Dependency Relationship?",
+    "SectionC": "Explain in detail formulating a network model.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What are the three different approaches to identifying the activities?",
+    "SectionB": "What is Brainstorming? Explain with an example.",
+    "SectionC": "What is the difference between forward pass and backward pass? Explain with an example.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "Write short notes on WBS.",
+    "SectionB": "What is Activity-on-Arrow (AOA) and Activity-on-Node (AON)?",
+    "SectionC": "Explain activity-on-arrow networks.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "Mention the five levels of WBS.",
+    "SectionB": "Explain the three forms of presenting a project schedule in detail?",
+    "SectionC": "Explain the categories of risk.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "How will formulate the network model?",
+    "SectionB": "Explain about network diagram methods?",
+    "SectionC": "What are the approaches in risk identification?",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "What are the rules for constructing precedence networks?",
+    "SectionB": "What is a start-to-start relationship?",
+    "SectionC": "Explain the risk planning.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "Define Hammock activities.",
+    "SectionB": "What are the uses of nominal group techniques?",
+    "SectionC": "How to evaluate the PERT techniques.",
+    "Unit": "3"
+  },
+  {
+    "SectionA": "Write short notes on monitoring.",
+    "SectionB": "What is cost performance index (CPI), schedule performance index(SPI) and 'To complete performance index' (TCPI)?",
+    "SectionC": "Explain project control cycle in detail.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "Write short notes on control.",
+    "SectionB": "What is EAC and BAC? Explain in detail.",
+    "SectionC": "How to prepare activity assessment sheet?",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is the purpose of project monitoring and control?",
+    "SectionB": "Define Gantt Chart and slip chart with suitable example.",
+    "SectionC": "Explain the method Earned value Analysis.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What are the different categories of reporting?",
+    "SectionB": "Discuss the advantages and disadvantages of fixed price contracts.",
+    "SectionC": "Explain the change in control procedures.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is BCWS?",
+    "SectionB": "What are the advantages and disadvantages of time and materials contracts?",
+    "SectionC": "What is meant by contract? Explain the supply process in detail.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is ACWP?",
+    "SectionB": "What the advantages and disadvantages of fixed per unit delivered contracts?",
+    "SectionC": "Explain the different types of contract in detail.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is BCWP?",
+    "SectionB": "What are the three steps in project control and explain?",
+    "SectionC": "Explain fixed price contracts with advantages and disadvantages.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is cost variance (CV)?",
+    "SectionB": "Explain traffic light-method. List the functions in it.",
+    "SectionC": "Explain time and material contract with advantages and disadvantages.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is schedule variance (SV)?",
+    "SectionB": "Define change control procedures. Explain the steps in detail.",
+    "SectionC": "What are the stages in contract management?",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What is contract management?",
+    "SectionB": "What are the services to be provided in contracts? Explain in detail.",
+    "SectionC": "What are the typical terms of a contract? Explain with examples.",
+    "Unit": "4"
+  },
+  {
+    "SectionA": "What are the objectives of managing people and organizing teams?",
+    "SectionB": "Write the five processes of Project Management Institute (PMI).",
+    "SectionC": "Explain the stepwise framework where staffing concerns are important.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What are the three basic objectives of organizational behaviour.",
+    "SectionB": "Write the stages of Team Formation Model.",
+    "SectionC": "Explain the recruitment process.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "Define Motivation.",
+    "SectionB": "Differentiate leaders and managers. Explain their roles.",
+    "SectionC": "Define motivation. Explain Maslow’s hierarchy of needs.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What are the needs in Maslow’s hierarchy theory?",
+    "SectionB": "Give some units for measuring the size of the software. Explain in detail.",
+    "SectionC": "What the methods involved in motivation?",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "What are the factors to be considered in the Oldham-Hackman job characteristic model?",
+    "SectionB": "Write the goal of software project planning? Explain any 3 goals.",
+    "SectionC": "What are the steps needed to become a team?",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "Mention the methods of improving motivation.",
+    "SectionB": "What are the characteristics of an organization?",
+    "SectionC": "Explain the leadership style in detail.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "How to become a team?",
+    "SectionB": "Write any five competencies of project management skills.",
+    "SectionC": "Explain the organizational structures.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "Define Storming.",
+    "SectionB": "What is knowledge management? Explain its techniques.",
+    "SectionC": "Explain the stress and health and safety in detail.",
+    "Unit": "5"
+  },
+  {
+    "SectionA": "Define Forming.",
+    "SectionB": "What is unstructured data and structured data?",
+    "SectionC": "Write some ways to collect information for system requirements.",
+    "Unit": "5"
+  }
+]
